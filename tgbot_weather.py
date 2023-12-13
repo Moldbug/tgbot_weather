@@ -1,4 +1,5 @@
-
+open_weather_token = ''
+tg_bot_token = ''
 
 import requests
 import datetime
